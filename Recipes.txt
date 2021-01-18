@@ -5,7 +5,12 @@ Welcome to Nerchuko Kitchen
 Kheer
 Pasta
 Aloo  Fry
+Beans
+Pizza
 
 
 Regards,
 Nerchuko
+
+
+Done my changes
